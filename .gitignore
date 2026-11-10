@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# Build products
+DerivedData/
+build/
+
+# Editor link to Xcode's build settings; holds this machine's paths (xcode-build-server config)
+buildServer.json
+
+# Tool artifacts
+.playwright-mcp/
